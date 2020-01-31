@@ -1,2 +1,1 @@
-# beertits
-Official BEERTITS website
+# Medical Consultation Platform
